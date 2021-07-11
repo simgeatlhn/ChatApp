@@ -5,7 +5,7 @@ app preview link: https://compassionate-allen-bafb49.netlify.app/
 ![3](https://user-images.githubusercontent.com/73952475/125190542-62511080-e246-11eb-8c49-aa4f728f453d.jpg)
 ![4](https://user-images.githubusercontent.com/73952475/125190545-63823d80-e246-11eb-9152-4caa5372fddf.jpg)
 
-run npm i && npm start for both client and server side to start the development server
+--run npm i && npm start for both client and server side to start the development server
 
 --While developing this project;for frontend HTML, CSS, JavaScript and React Framework were used. for the backend used node.js. And socket.io is used for real  time data transfer and the data will be transferring our messages. 
 
